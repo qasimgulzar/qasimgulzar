@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey, I'm Sergio! 👋
 
-<!--
-**qasimgulzar/qasimgulzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Sr. Staff Engineer at [@Arbisoft](https://github.com/arbisoft/)  
+🇵🇰 Living in Lahore, Pakistan. 
 
-Here are some ideas to get you started:
+### Find me elsewhere 🌎  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="linkedin.com/in/qasimkhokhar" target="_blank">
+  <img src=https://img.shields.io/badge/qasim_gulzar-black?&style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/qasimgulzar?tab=repositories" target="_blank">
+  <img src=https://img.shields.io/badge/qasim_gulzar-black?&style=for-the-badge&logo=github&logoColor=white alt=Github style="margin-bottom: 5px;" />
+</a>
+
+<a href="mailto:qasim.gulzar@gmail.com">
+  <img src=https://img.shields.io/badge/qasim_gulzar-black?&style=for-the-badge&logo=gmail&logoColor=white alt=Email style="margin-bottom: 5px;" />
+</a>
