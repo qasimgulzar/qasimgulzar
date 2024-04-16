@@ -21,7 +21,7 @@ Dynamic and results-oriented Software Engineer with 5+ years of experience in fu
 - Implemented agile methodologies to streamline development processes and improve team efficiency.
 
 ### Principal Software Engineer
-**Arbisoft** | August 2020 - Present
+**Arbisoft** | Octuber 2018 - Present
 - Architected and implemented backend components for web applications using Django and FastAPI.
 - Collaborated with frontend developers to design user-friendly interfaces using React.js.
 - Utilized Docker for containerization and deployment of applications.
