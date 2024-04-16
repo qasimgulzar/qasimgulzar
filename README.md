@@ -23,19 +23,12 @@ My experiences have shaped me into a dynamic problem solver and a leader in soft
 
 - Programming Languages: 
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
   ![C/C++](https://img.shields.io/badge/C/C++-3776AB?logo=c++&logoColor=white)
-
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
   ![Typescript](https://img.shields.io/badge/Typescript-F7DF1E?logo=typescript&logoColor=black)
-
   ![Java](https://img.shields.io/badge/Java-F7DF1E?logo=java&logoColor=black)
-
   ![Solidity](https://img.shields.io/badge/Solidity-F7DF1E?logo=solidity&logoColor=black)
-
   ![Php](https://img.shields.io/badge/Php-F7DF1E?logo=php&logoColor=black)
-
   ![Web3](https://img.shields.io/badge/Web3-F7DF1E?logo=web3&logoColor=black)
 
 - Web Frameworks:
