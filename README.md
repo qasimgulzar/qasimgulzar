@@ -13,6 +13,6 @@
   <img src=https://img.shields.io/badge/qasim_gulzar-black?&style=for-the-badge&logo=github&logoColor=white alt=Github style="margin-bottom: 5px;" />
 </a>
 
-<a href="mailto:qasim.gulzar@gmail.com">
+<a href="mailto:qasim.khokhar52@gmail.com">
   <img src=https://img.shields.io/badge/qasim_gulzar-black?&style=for-the-badge&logo=gmail&logoColor=white alt=Email style="margin-bottom: 5px;" />
 </a>
