@@ -4,29 +4,22 @@
 🇵🇰 Living in Lahore, Pakistan. 
 ## Summary
 
-Dynamic and results-oriented Software Engineer with 5+ years of experience in full-stack web development. Skilled in Python, JavaScript, React.js, and Django. Proven track record of delivering high-quality software solutions. Passionate about leveraging technology to solve complex problems and drive innovation.
+👋 Welcome to my Github profile! I'm a results-driven Software Engineer with a passion for creating innovative solutions. My journey through various roles and experiences has equipped me with a diverse skill set and a deep understanding of software development. Here's a glimpse of my professional journey:
 
-## Experience
+🚀 Principal Software Engineer at MarketerHire (Remote)
+At MarketerHire, I lead software engineering efforts, ensuring the scalability and reliability of our systems. My responsibilities include architecting solutions, mentoring team members, and optimizing performance. I specialize in Python, Django, and PostgreSQL, contributing to our cutting-edge platform.
 
-### Principal Software Engineer
-**MarketerHire** | May 2021 - Present
-- Led the development of scalable web applications using Python and Django.
-- Collaborated with cross-functional teams to deliver projects on time and within budget.
-- Mentored junior developers and conducted code reviews to ensure code quality.
+🔧 Engineering Manager at Sruplex (Pakistan)
+In my role at Sruplex, I manage a talented team of engineers, driving projects from conception to delivery. My expertise in Java, Spring, and Hibernate has allowed us to deliver high-quality software solutions that meet client needs efficiently.
 
-### Engineering Manager
-**Sruplex** | January 2021 - Present
-- Managed a team of developers and coordinated project priorities and timelines.
-- Developed RESTful APIs using FastAPI and integrated third-party services via REST APIs.
-- Implemented agile methodologies to streamline development processes and improve team efficiency.
+🌐 Principal Software Engineer at Arbisoft (Lahore, Pakistan)
+At Arbisoft, I've been instrumental in developing robust software solutions. My journey started as a Senior Software Engineer, where I honed my skills in full-stack development using technologies like Node.js and React.js. I've since progressed to the role of Principal Software Engineer.
 
-### Sr. Staff Engineer
-**Arbisoft** | Octuber 2018 - Present
-- Architected and implemented backend components for web applications using Django and FastAPI.
-- Collaborated with frontend developers to design user-friendly interfaces using React.js.
-- Utilized Docker for containerization and deployment of applications.
+🔑 Key Skills: Python, Java, JavaScript, Django, Spring, React.js, PostgreSQL, Leadership, Software Architecture
 
-## Skills
+My experiences have shaped me into a dynamic problem solver and a leader in software engineering. I'm always eager to connect with fellow professionals and explore opportunities for collaboration. Let's connect and explore how we can create value together!
+
+## Technology Stack
 
 - Programming Languages: 
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
