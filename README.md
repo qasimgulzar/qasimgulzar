@@ -20,7 +20,7 @@ Dynamic and results-oriented Software Engineer with 5+ years of experience in fu
 - Developed RESTful APIs using FastAPI and integrated third-party services via REST APIs.
 - Implemented agile methodologies to streamline development processes and improve team efficiency.
 
-### Principal Software Engineer
+### Sr. Staff Engineer
 **Arbisoft** | Octuber 2018 - Present
 - Architected and implemented backend components for web applications using Django and FastAPI.
 - Collaborated with frontend developers to design user-friendly interfaces using React.js.
