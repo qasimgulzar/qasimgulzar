@@ -5,7 +5,7 @@
 
 ### Find me elsewhere 🌎  
 
-<a href="linkedin.com/in/qasimkhokhar" target="_blank">
+<a href="https://www.linkedin.com/in/qasimkhokhar" target="_blank">
   <img src=https://img.shields.io/badge/qasim_gulzar-black?&style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a>
 
