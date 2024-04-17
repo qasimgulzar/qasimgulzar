@@ -19,6 +19,8 @@ At Arbisoft, I've been instrumental in developing robust software solutions. My 
 
 My experiences have shaped me into a dynamic problem solver and a leader in software engineering. I'm always eager to connect with fellow professionals and explore opportunities for collaboration. Let's connect and explore how we can create value together!
 
+![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar?cardType=level&theme=github-dark&Background=000000){ width="100%" style="display: block; margin: 0 auto" }
+
 ## Technology Stack
 
 - Programming Languages: 
@@ -56,8 +58,6 @@ My experiences have shaped me into a dynamic problem solver and a leader in soft
 - Project Management: 
   ![Agile](https://img.shields.io/badge/Agile-0098FF?logo=agile&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0098FF?logo=jira&logoColor=white)
-
-[![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar?cardType=level&theme=github-dark&Background=000000)](https://git.io/awesome-stats-card)
 
 ### Find me elsewhere 🌎  
 
