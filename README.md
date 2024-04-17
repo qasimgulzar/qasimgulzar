@@ -57,6 +57,7 @@ My experiences have shaped me into a dynamic problem solver and a leader in soft
   ![Agile](https://img.shields.io/badge/Agile-0098FF?logo=agile&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0098FF?logo=jira&logoColor=white)
 
+[![My stats](https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar?cardType=level&theme=github-dark&Background=000000)](https://git.io/awesome-stats-card)
 
 ### Find me elsewhere 🌎  
 
