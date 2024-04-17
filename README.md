@@ -19,7 +19,7 @@ At Arbisoft, I've been instrumental in developing robust software solutions. My 
 
 My experiences have shaped me into a dynamic problem solver and a leader in software engineering. I'm always eager to connect with fellow professionals and explore opportunities for collaboration. Let's connect and explore how we can create value together!
 
-<img src="[Assets/icon.png](https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar?cardType=level&theme=github-dark&Background=000000)" width="100%" alt="My Stats">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar?cardType=level&theme=github-dark&Background=000000" width="100%" alt="My Stats">
 
 ## Technology Stack
 
