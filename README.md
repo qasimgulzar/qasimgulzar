@@ -20,10 +20,10 @@ At Arbisoft, I've been instrumental in developing robust software solutions. My 
 My experiences have shaped me into a dynamic problem solver and a leader in software engineering. I'm always eager to connect with fellow professionals and explore opportunities for collaboration. Let's connect and explore how we can create value together!
 
 <div class="row">
-  <div class="col-sm-6">
+  <div class="col-sm-5">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimgulzar&cardType=level&theme=github-dark&Background=000000" alt="GitHub Streak" />
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-5">
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar?cardType=level&theme=github-dark&Background=000000" alt="My Stats">
   </div>
 </div>
