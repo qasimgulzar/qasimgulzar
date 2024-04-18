@@ -27,6 +27,10 @@ My experiences have shaped me into a dynamic problem solver and a leader in soft
     <td>
       <img src="https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar?cardType=level&theme=github-dark&Background=000000" alt="My Stats">
     </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qasimgulzar&show_icons=true&locale=en&cardType=level&theme=github-dark&Background=000000" alt="My Readme Stats" />
+
+    </td>
   </tr>
   
 </table>
