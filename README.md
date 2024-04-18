@@ -25,7 +25,7 @@ My experiences have shaped me into a dynamic problem solver and a leader in soft
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimgulzar&cardType=level&theme=light&Background=FFFFFF" alt="Github Streak">
     </td>
     <td>
-      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar?cardType=level&theme=github-dark&Background=FFFFFF" alt="My Stats">
+      <img src="https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar??cardType=level&Background=FFFFFF&title=green" alt="My Stats">
     </td>
 <!--     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qasimgulzar&show_icons=true&locale=en&cardType=level&theme=github-dark&Background=000000" alt="My Readme Stats" />
