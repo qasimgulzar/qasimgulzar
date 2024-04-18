@@ -21,10 +21,10 @@ My experiences have shaped me into a dynamic problem solver and a leader in soft
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar?cardType=level&theme=github-dark&Background=000000" width="100%" alt="My Stats">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/qasimgulzar?cardType=level&theme=github-dark&Background=000000" alt="My Stats">
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimgulzar&cardType=level&theme=github-dark&Background=000000" width="100%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=qasimgulzar&cardType=level&theme=github-dark&Background=000000" alt="GitHub Streak" />
   </div>
 </div>
 
