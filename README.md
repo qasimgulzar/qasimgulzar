@@ -1,6 +1,6 @@
 ### Hey, I'm Qasim! 👋
 
-👨‍💻 Sr. Staff Engineer at [@Arbisoft](https://github.com/arbisoft/)  
+👨‍💻 Sr. Staff Engineer at [@Primzel](https://github.com/primzel)  
 🇵🇰 Living in Lahore, Pakistan. 
 ## Summary
 
